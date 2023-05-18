@@ -1,0 +1,61 @@
+body {
+  background-color: lightslategrey;
+  color: white;
+  background-image: url(https://img.freepik.com/free-photo/abstract-uv-ultraviolet-light-composition_23-2149243965.jpg);
+  background-size: cover;
+}
+
+.main {
+  text-align: center;
+  margin-top: 10%;
+}
+.head {
+  margin: 35px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  font-size: 60px;
+}
+#do-input{
+    width:200px;
+    
+}
+
+ul {
+  text-decoration: none;
+}
+
+input {
+  padding: 7px;
+
+  border-radius: 5px;
+}
+
+button {
+  background-color: #b60f3b84;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  box-shadow: rgba(255, 255, 255, 0.4) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+
+  font-size: 13px;
+
+  line-height: 1.15385;
+  margin: 0;
+
+  padding: 8px 0.8em;
+  margin-left: 10px;
+}
+
+button:hover {
+  background-color:black;
+}
+
+ul li {
+  padding: 10px;
+  margin-right: 50px;
+
+  list-style-type: none;
+}
